@@ -1,5 +1,5 @@
 # Drum Kit
-A minimalistic drum kit that helped me learn a bit about JavaScript and some CSS animations. To view it go to the link [here]().
+A minimalistic drum kit that helped me learn a bit about JavaScript and some CSS animations. To view it go to the link [here](https://jusgu.github.io/drumkit/).
 
 ## Tools Used
 - HTML
